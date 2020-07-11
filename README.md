@@ -9,7 +9,7 @@
 ## <a href="https://github.com/isakura313/01_2_2.git">6 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/6_05.git">7 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/8_02">8 ЗАНЯТИЕ</a>
-## <a href=" https://github.com/isakura313/13_05_2.git">9 ЗАНЯТИЕ</a>
+## <a href="https://github.com/isakura313/13_05_2.git">9 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/15_05_3.git">10 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/20_05_02.git">11 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/22_05_02">12 ЗАНЯТИЕ</a>
@@ -20,7 +20,7 @@
 ## <a href="https://colab.research.google.com/drive/1agouE3NiA5JBXnwwlCnI5yeRDXs3iCzz?usp=sharing">17 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/12_06.git">18 ЗАНЯТИЕ</a>
 ## <a href="https://colab.research.google.com/drive/1agouE3NiA5JBXnwwlCnI5yeRDXs3iCzz?usp=sharing">18 ЗАНЯТИЕ</a>
-## <a href=" https://colab.research.google.com/drive/1Ja9q76VkaJ5k7bTLz9lvVuhfykjcJ17n?usp=sharing">19 ЗАНЯТИЕ</a>
+## <a href="https://colab.research.google.com/drive/1Ja9q76VkaJ5k7bTLz9lvVuhfykjcJ17n?usp=sharing">19 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/web_test">20 ЗАНЯТИЕ</a>
 ## <a href="https://colab.research.google.com/drive/1XGiDj7kwc01uMYt_lC7IEyLtd5qIZkWM?usp=sharing">20 ЗАНЯТИЕ</a>
 ## <a href="https://github.com/isakura313/26_06_02_web">21 ЗАНЯТИЕ</a>
